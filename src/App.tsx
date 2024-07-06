@@ -138,7 +138,7 @@ const App: React.FC = () => {
         <button onClick={handleSearch}>Search</button>
       </div>
       {loading ? (
-        <WeatherAppSkeleton />
+        <WeatherAppSkeleton /> // Display loading skeleton
       ) : (
         <WeatherApp
           apiKey={API_KEY}

@@ -2,6 +2,8 @@
 
 A modern weather application designed with an Apple-like aesthetic, built using React and TypeScript. This app fetches and displays current weather conditions and a 5-day forecast for the user's location or a searched location.
 
+![Weather App Screenshot](images/screenshot.png)
+
 ## 📖 Table of Contents
 
 1. **[🚀 Features](#-features)**
